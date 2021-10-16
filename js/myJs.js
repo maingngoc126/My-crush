@@ -2,7 +2,7 @@ const textConfig = {
   text1: "Hélu Minh Mèo! <3",
   text2: "Tôi có điều này muốn hỏi, ông nhớ phải trả lời thật lòng đó nhaaa",
   text3: "Minh có thương Mai hemmm? 🥰",
-  text4: "Không trả lời mà out ra là xem như chọn vào Sài Gòn làm con của mẹ tôi đó nha :))",
+  text4: "Không trả lời mà out ra là xem như chịu vào Sài Gòn làm con của mẹ tôi đó nha :>",
   text5: "Ai mà thương đồ hâm như Mai chứ",
   text6: "Có, anh thương Mai lắmmmmm :))",
   text7: "Thế giới hơn 7 tỉ người, vì sao Minh lại thương em?",
