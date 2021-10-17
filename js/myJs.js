@@ -7,7 +7,7 @@ const textConfig = {
   text6: "Có, anh thương Mai lắmmmmm :))",
   text7: "Thế giới hơn 7 tỉ người, vì sao Minh lại thương em?",
   text8: "Gửi cho Mai nè <3",
-  text9: "Vì Mai siêu cute, đáng iu muốn xỉu :))",
+  text9: "Vì Mai siêu cute, đáng iu muốn xỉu nên Minh sẽ ra Sài Gòn với Mai :))))))",
   text10: "Em biết màaaaa, em cũng thương bạn Mèo :)) 😘😘",
   text11:
     "Ơ thế là thương tôi như vậy, sao trước giờ không nói cho tôi ngheeee. Inbox cho tôi liền đi chứ :>",
@@ -114,7 +114,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Vì Mai siêu cute, đáng iu'>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Vì Mai siêu cute, đáng iu muốn xỉu :))'>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
